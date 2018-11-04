@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About 
-permalink: /about/ color:red
+permalink: /about/ 
 published: true
 ---
 
@@ -10,8 +10,9 @@ published: true
 {% capture page_subtitle %}
 <img
     class="me"
-    alt="{{ Didem Uysal }}"
-   
+    alt="{{  }}"
+    
+    
     
 />
 {% endcapture %}
