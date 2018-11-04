@@ -1,16 +1,15 @@
 ---
 layout: post
-title: 'Advanture in London'
+title: 'Adventure in London'
 tags:
  
 hero: https://source.unsplash.com/collection/582860/
-overlay: yellow
+overlay: white
 ---
 
-All of the dactl's configurations has to be set in `_config.yml` file. Read on for explanation of all of the features that you can toggle, including configuring the layout.
+The summer of 2017, i went to London to have a better knowledge about English Language and Literature.
 {: .lead}
 
-I've split dactl's `_config.yml` into two parts. First part should be configured by you, second contains important Jekyll & build settings and you should leave it alone, unless you know what you are doing.
 <!–-break-–>
 
 Let's go through each line in the first, configurable part:
