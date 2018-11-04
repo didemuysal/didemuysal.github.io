@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Didem Uysal's Blog!"
+title:  "Welcome to my Blog!"
 
   
    
