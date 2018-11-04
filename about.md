@@ -16,7 +16,7 @@ published: true
 />
 {% endcapture %}
 
-{% include page/title.html title=page.title subtitle=page_subtitle %}
+    
 
 ## Hello, again. 
 
