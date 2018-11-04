@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
 published: true
 ---
@@ -10,7 +10,7 @@ published: true
 {% capture page_subtitle %}
 <img
     class="me"
-    alt="{{ author.name }}"
+    alt="{{ Didem Uysal }}"
    
     
 />
