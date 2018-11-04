@@ -10,7 +10,6 @@ published: true
 {% capture page_subtitle %}
 <img
     class="me"
-     src="{{ site.author.photo | relative_url }}"
     alt="{{ author.name }}"
    
     
