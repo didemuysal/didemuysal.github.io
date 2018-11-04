@@ -1,10 +1,8 @@
 ---
 layout: post
-title: 'Layout settings and more in _config.yml'
+title: 'Advanture in London'
 tags:
-  - jekyll
-  - dactl
-  - howto
+ 
 hero: https://source.unsplash.com/collection/582860/
 overlay: red
 ---
@@ -71,14 +69,13 @@ url                          : "" # the base hostname & protocol for your site
 In order to change the font you need to supply it's name and variants - font weight of 400 and 700 are required.  
 
 ## Author info
-* `fullname` - Your name and surname or nick, used throughout the blog.
+* `fullname` - Didem Uysal
 * `rss` - true or false - Turn the RSS feeds on or off.
-* `mail` - Your e-mail address.
-* `twitter` - Your twitter username
-* `github` - Your Github username
-* `youtube` - Your YouTube username
-* `stackoverflow` - Your Stackoverflow username
-* `disqus` - Your Disqus site name.
+* `mail` - didemuysal@gmail.com
+* `twitter` - didem_uysal
+* `github` - didemuysal
+
+
 * `photo` - Avatar or photo of you, used on About page.
 * `photo2x` - Same as above but in higher resolution.
 
