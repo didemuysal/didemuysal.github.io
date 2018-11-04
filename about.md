@@ -10,7 +10,7 @@ published: true
 {% capture page_subtitle %}
 <img
     class="me"
-    alt="{{  }}"
+    alt="{{ Didem Uysal }}"
     
     
     
