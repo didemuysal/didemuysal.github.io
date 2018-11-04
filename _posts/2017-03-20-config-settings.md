@@ -39,15 +39,11 @@ load_google_fonts            : 'Rubik:400,400italic,700,700italic'
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Didem Uysal
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
-  google_analytics          : # 'UA-XXXXXXXX-X'
+  mail                      : didemuysal@gmail.com # change to your e-mail address
+  twitter                   : didem_uysal
+  github                    : didemuysal
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
 
