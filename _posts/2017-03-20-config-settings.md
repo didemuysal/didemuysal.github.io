@@ -12,5 +12,4 @@ The summer of 2017, i went to London to have a better knowledge about English La
 
 <!–-break-–>
 
-Let's go through each line in the first, configurable part:
-
+I was a student at Regent's University London for 1 month but i stayed at London for 2 months. It helped to get through all my fear about English. My vision to the World is completely changed.
