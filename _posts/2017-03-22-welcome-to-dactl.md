@@ -7,10 +7,11 @@ title:  "Welcome to my Blog!"
 hero: https://source.unsplash.com/collection/430471/
 overlay: red
 published: true
-
+date : 11-26-2018 
 
 ---
 Hello. 
+I am Didem Uysal. I am 20 years old currently also junior Computer Engineering student. I will share my weakness, thoughts and achivements. See you soon! :)
 {: .lead}
 <!–-break-–>
 
